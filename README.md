@@ -7,6 +7,8 @@ This package is a collaborative effort between a group of researchers to foster 
 
 [Nick Golding][Nick] @ [Spatial Ecology and Epidemiology Group, Oxford][seeg]
 
+[Jessica Metcalf][Jess] 
+
 (guys, fill in your bits here!)
 
 
@@ -39,3 +41,4 @@ You can report bugs, issues and suggestions for extra functions using the issues
 [Nick]: http://www.map.ox.ac.uk/about-map/map-team/nicholas-golding/
 [seeg]: http://simonhay.zoo.ox.ac.uk/staff.php
 [devtools]: http://cran.r-project.org/web/packages/devtools/index.html
+[Jess]:http://www.zoo.ox.ac.uk/people/view/metcalf_cj.htm
